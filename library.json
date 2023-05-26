@@ -1,0 +1,23 @@
+{
+    "name": "DBH12-Bridge",
+    "version": "0.0.1",
+    "description": "BETA version A library to pilot DC Motor with DBH12-Bridge",
+    "keywords": "pwm, motor",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/sybri/DBH12-Bridge.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Sylvain BRISSY",
+        "email": "sylvain.brissy@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://www.helloworld.org/",
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
