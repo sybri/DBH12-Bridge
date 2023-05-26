@@ -17,7 +17,7 @@
       }
     ],
     "license": "MIT",
-    "homepage": "https://www.helloworld.org/",
+    "homepage": "https://github.com/sybri/DBH12-Bridge.",
     "frameworks": "arduino",
     "platforms": "espressif32"
   }
