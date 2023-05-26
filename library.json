@@ -1,6 +1,6 @@
 {
     "name": "DBH12-Bridge",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "BETA version A library to pilot DC Motor with DBH12-Bridge",
     "keywords": "pwm, motor",
     "repository":

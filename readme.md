@@ -4,7 +4,7 @@ Integration of Hbridge DBH12
 
 ![DBH-12-hookup](docs/DBH-12-hookup.webp)
 
-somme example https://dronebotworkshop.com/dc-motor-drivers/
+some example https://dronebotworkshop.com/dc-motor-drivers/
 
 
 The library use the pwm ldec of esp32 I have to test other pwm in order to get the library functioning with other esp 
